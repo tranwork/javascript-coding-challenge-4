@@ -1,4 +1,4 @@
- // Task 1: If Statements - Customer Discounts
+// Task 1: If Statements - Customer Discounts
 let purchaseAmount = 120;
 if (purchaseAmount > 100) {
     let discount = purchaseAmount * 0.1;
